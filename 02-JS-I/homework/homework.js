@@ -27,14 +27,17 @@ const nuevoModulo = 21 % 5 === null;
 
 function devolverString(str) {
   // "Return" la string provista: str
-  // Tu código:
+  // Tu código:"return" str.split([separador[,limite]])
 
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código:
+  // Tu código: 
+  var n1 = parseInt(prompt("introduce un numero");
+  var n2 = prompt("introduce un numero");
+  var r = n1 + parseInt (n2);
 
 }
 
